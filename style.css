@@ -1,0 +1,58 @@
+*{
+    margin: 10;
+    background:rgba(148, 197, 236, 0.705);
+
+  }
+  h1{
+    color: black;
+    font-size: 44px;
+    font-family:  time news;
+    background:rgb(110, 160, 252);
+    border: 50px solid rgb(110, 160, 252);
+    margin: 0px 0px 0px 0px;
+
+  }
+  .perfil img{
+    float: right;
+    width: 20%;
+    border: thin solid rgba(148, 197, 236, 0.705);
+    padding: 0px;
+    margin: 0px 0px 20px 0px;
+   }
+h2{
+  color: black;
+  font-size: 30px;
+  font-family:  time news;
+
+}
+h3{
+  color: black;
+  font-size: 28px;
+  font-family:  time news;
+
+}
+h4{
+  color: black;
+  font-size: 20px;
+  font-family:  time news;
+  ;
+
+}
+p{
+  color: black;
+  font-size: 20px;
+  font-family:  time news;
+  margin: 0px 20px 20px 20; 
+}
+.but button{
+  background :rgb(110, 160, 252);
+  color:rgb(110, 160, 252) ;
+  font-size: 35px;
+  font-family:  time news;
+  border: thin solid;
+  padding: 0px;
+  margin: 100px 20px 20px 500; 
+}
+footer{
+  margin: 40px 55px 75px 1075px;
+}
